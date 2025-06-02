@@ -1,1 +1,1 @@
-https://github.com/LakshmiPriya-11/simplecv/blob/main/index.html
+project url: https://roadmap.sh/projects/single-page-cv
