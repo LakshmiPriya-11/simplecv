@@ -1,1 +1,1 @@
-Project Link : https://github.com/LakshmiPriya-11/simplecv
+Project Link : file:///E:/roadmap/cv/index.html
