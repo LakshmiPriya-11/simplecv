@@ -1,2 +1,1 @@
-Project Link :  https://lakshmipriya-11.github.io/simplecv/
-
+Project Link : https://github.com/LakshmiPriya-11/simplecv
